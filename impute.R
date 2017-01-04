@@ -1,0 +1,1 @@
+rm.outlier(x, fill = FALSE, median = FALSE, opposite = FALSE)
